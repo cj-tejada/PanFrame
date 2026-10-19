@@ -218,3 +218,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# Nextflow execution & temporary files
+# ==========================================
+# Directores de trabajo y caché de Nextflow
+work/
+.nextflow/
+.nextflow.log*
+
+# Reportes y trazabilidad generados durante la ejecución (-with-report, -with-timeline, -with-dag, -with-trace)
+report*.html
+timeline*.html
+dag*.html
+dag*.svg
+dag*.png
+dag*.pdf
+trace*.txt
+
+# Imágenes de contenedores descargadas localmente (Singularity / Apptainer)
+*.sif
+*.simg
+
+# Directorios de resultados (descomenta si generas salidas en el repositorio y no quieres subirlas a Git)
+# results/
+# output/
+# outdir/
