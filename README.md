@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/images/panframe_logo.png" alt="PanFrame Logo" width="450"/>
+  <img src="docs/figures/PanFrame_simple.png" alt="PanFrame Logo" width="450"/>
 </p>
 
-# PanFrame
+# PanFrame"
 
 **PanFrame** is a scalable Nextflow workflow designed for analyzing bacterial genomes within a pangenomic framework—ranging from pathogen virulomes to plant growth-promoting traits (PGPT).
 
