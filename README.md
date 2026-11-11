@@ -26,9 +26,9 @@ The workflow automates processing from raw long-read assembly to pangenome recon
 
 ## How to Use
 
-<p align="center">
-  <sub><i>Note: This project is currently finalizing its construction and undergoing active development. Features and workflows may change.</i></sub>
-</p>
+> [!WARNING]
+> **Under Active Construction**
+> This project is currently finalizing its development. Features, syntax, and workflows may change.
 
 Run the pipeline using Nextflow with the following command:
 
