@@ -13,7 +13,7 @@
 The workflow automates processing from raw long-read assembly to pangenome reconstruction across core, shell, and cloud partitions.
 
 <p align="center">
-  <img src="docs/images/subway_chart.png" alt="PanFrame Subway Chart Architecture" width="100%"/>
+  <img src="docs/figures/Flowchart.png" alt="PanFrame Subway Chart Architecture" width="100%"/>
 </p>
 
 ### Main Pipeline Branches
